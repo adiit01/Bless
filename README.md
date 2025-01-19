@@ -33,6 +33,4 @@ screen -S bless
 python3 main.py
 ```
 **DONE**
-# Bless
-# Bless
-# Oasis
+
