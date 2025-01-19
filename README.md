@@ -12,7 +12,7 @@
 **clone this repository**
 ```
 git clone https://github.com/adiit01/Bless.git
-cd BlessWS
+cd Bless
 ```
 ## Step 2
 ```
